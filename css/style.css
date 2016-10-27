@@ -1,0 +1,32 @@
+*{
+	box-sizing:border-box;
+	}
+h1{color:red;
+  text-align:center;}
+  h2{color:grey;
+     margin-top:0px;
+	 padding-top:0px;
+	padding-left:24cm;}
+.boro{height:7cm;
+width:100;
+position:relative;}
+.choto{height:8cm;
+       width:32%;
+	   }
+	   .a{position:absolute;
+	       top:0px;
+		   left:0px;}
+		     .b{position:absolute;
+	       top:0px;
+		   left:32%;}
+		     .c{position:absolute;
+	       top:0px;
+		   left:64%;}
+		  .choto>img{height:6cm;
+		  width:100%;}
+		 .button{height:1cm;
+		 
+		 background:blue;
+		 margin-left:2.6cm;}
+		 input{text-align:center;}
+		 
